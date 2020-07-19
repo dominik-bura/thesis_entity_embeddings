@@ -1,4 +1,4 @@
-# Neural Network-based Entity Embeddings for Structured Data
+# Neural Network-based Entity Embeddings of Structured Data
 ### Thesis: Code & Data Files
 
 This repository contains the data and code files for my (Dominik Hait) master's thesis: **Neural Network-based Entity Embeddings for Structured Data**.
